@@ -51,3 +51,7 @@ pip install numpy
 To run the app, navigate to the project directory and run the following command:
 
 streamlit run app.py
+
+Final Output:
+![image](https://github.com/user-attachments/assets/a88f870d-99aa-46f3-9c78-e7fb13428192)
+
